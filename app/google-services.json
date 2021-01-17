@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373281842030",
+    "project_id": "city-traveler-main",
+    "storage_bucket": "city-traveler-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373281842030:android:55fab1c1cbb57a6d7c177f",
+        "android_client_info": {
+          "package_name": "com.example.uitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373281842030-m23coklocbei69c4i8p6ltftbiolrkk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiYs_JZWVB1n_M21K9KG2n18jig8bB-j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373281842030-m23coklocbei69c4i8p6ltftbiolrkk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
